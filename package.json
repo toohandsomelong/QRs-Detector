@@ -1,0 +1,19 @@
+{
+  "name": "qr-watcher",
+  "version": "1.0.0",
+  "description": "Watch the primary screen every minute, alarm loudly when an unmarked QR code appears, and ignore QR codes once acknowledged.",
+  "main": "watcher.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node watcher.js",
+    "test-qr": "node tools/make-test-qr.js"
+  },
+  "dependencies": {
+    "jimp": "^0.22.12",
+    "jsqr": "^1.4.0",
+    "screenshot-desktop": "^1.15.0"
+  },
+  "devDependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
