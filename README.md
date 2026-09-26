@@ -1,3 +1,6 @@
+# NOTICE
+THIS IS VIBE CODED
+I VIBE CODED THIS SO I CAN REST WHILE THEY ARE FORCED ME TO ATTEND
 # QR Watcher
 
 Watches your screen, scans for QR codes every minute, and plays a loud alarm when a
